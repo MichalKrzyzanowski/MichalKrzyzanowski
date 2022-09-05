@@ -1,4 +1,6 @@
-### Hi there 👋
+## Michal Krzyzanowski
+Hello, I am an undergraduate at South East Technological University, studied Games development (Course Code: CW208).
+I have a deep interest in game development, specifically with Godot & messing about on a GNU/Linux based OS.
 
 <!--
 **MichalKrzyzanowski/MichalKrzyzanowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
